@@ -11,23 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-```liquid
-{% raw %}{% include publications %}{% endraw %}
-```
 
 <br/>
-
-# Examples
-
-## All publications
-To include every single publication in your csv file, use:
-
-```liquid
-{% raw %}{% include publications %}{% endraw %}
-```
-
-<details>
-<summary><i>Example output</i></summary>
 {% include publications %}
-</details>
 <br/>
