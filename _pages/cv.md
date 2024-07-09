@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](http://alexpiche.github.io/files/Piche_Alexandre_CV.png)
+![CV](http://alexpiche.github.io/files/Piche_Alexandre_CV.png)
