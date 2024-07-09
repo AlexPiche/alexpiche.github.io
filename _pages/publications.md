@@ -11,4 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
+```liquid
 {% raw %}{% include publications %}{% endraw %}
+```
