@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](Piche_Alexandre_CV.pdf)
+[CV](http://alexpiche.github.io/files/Piche_Alexandre_CV.pdf)
