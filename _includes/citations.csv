@@ -1,0 +1,14 @@
+﻿Authors,Title,Publication,Volume,Number,Pages,Year,Publisher
+"Romoff, Joshua; Henderson, Peter; Piché, Alexandre; Francois-Lavet, Vincent; Pineau, Joelle; ",Reward estimation for variance reduction in deep reinforcement learning,arXiv preprint arXiv:1805.03359,,,,2018,
+"Piché, Alexandre; Thomas, Valentin; Ibrahim, Cyril; Bengio, Yoshua; Pal, Chris; ",Probabilistic Planning with Sequential Monte Carlo methods,International Conference on Learning Representations,,,,2019,
+"Marino, Joseph; Piché, Alexandre; Ialongo, Alessandro Davide; Yue, Yisong; ",Iterative amortized policy optimization,Advances in Neural Information Processing Systems,34,,15667-15681,2021,
+"Le Priol, Rémi; Piché, Alexandre; Lacoste-Julien, Simon; ",Adaptive Stochastic Dual Coordinate Ascent for Conditional Random Fields.,UAI,,,815-824,2018,
+"Rajeswar, Sai; Mazzaglia, Pietro; Verbelen, Tim; Piché, Alexandre; Dhoedt, Bart; Courville, Aaron; Lacoste, Alexandre; ",Unsupervised model-based pre-training for data-efficient reinforcement learning from pixels,ICML2022: the 39th International Conference on Machine Learning,,,,2022,
+"Piche, Alexandre; Thomas, Valentin; Marino, Joseph; Pardinas, Rafael; Marconi, Gian Maria; Pal, Christopher; Khan, Mohammad Emtiyaz; ",Bridging the Gap Between Target Networks and Functional Regularization,TMLR,,,,2022,
+"Piche, Alexandre; Pardinas, Rafael; Vazquez, David; Mordatch, Igor; Pal, Chris; ",Implicit offline reinforcement learning via supervised learning,arXiv preprint arXiv:2210.12272,,,,2022,
+"Beckham, Christopher; Piche, Alexandre; Vázquez, David; Pal, Christopher; ",Towards good validation metrics for generative models in offline model-based optimisation,arXiv preprint arXiv:2211.10747,,,,2022,
+"Rajeswar, Sai; Mazzaglia, Pietro; Verbelen, Tim; Piché, Alexandre; Dhoedt, Bart; Courville, Aaron; Lacoste, Alexandre; ",Mastering the unsupervised reinforcement learning benchmark from pixels,International Conference on Machine Learning,,,28598-28617,2023,PMLR
+"Long, Stephanie; Piché, Alexandre; Zantedeschi, Valentina; Schuster, Tibor; Drouin, Alexandre; ",Causal discovery with language models as imperfect experts,arXiv preprint arXiv:2307.02390,,,,2023,
+"Long, Stephanie; Schuster, Tibor; Piché, Alexandre; ",Can large language models build causal graphs,arXiv preprint arXiv:2303.05279,,,,2023,
+"Long, S; Schuster, T; Piché, A; ",Can large language models build causal graphs?,arXiv preprint arXiv:2303.05279,,,,2023,
+"Piché, Alexandre; Milios, Aristides; Bahdanau, Dzmitry; Pal, Chris; ",LLMs can learn self-restraint through iterative self-reflection,arXiv preprint arXiv:2405.13022,,,,2024,
