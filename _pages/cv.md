@@ -9,4 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-![CV](http://alexpiche.github.io/files/Piche_Alexandre_CV.png)
+<embed src="http://alexpiche.github.io/files/Piche_Alexandre_CV.pdf" width="500" height="375" 
+ type="application/pdf">
