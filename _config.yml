@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Alex Piche"
+title                    : "Alex Piché"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,10 +22,10 @@ repository               : "AlexPiche/alexpiche.github.io"
 author:
   # Biographic information
   avatar           : "bio-photo.jpg"
-  name             : "Alex Piche"
+  name             : "Alex Piché"
   pronouns         : # example: "she/her"  
   bio              : "Senior research scientist"
-  location         : "Montreal, Qc"
+  location         : "Montréal, Qc"
   employer         : "ServiceNow Research"
   uri              : # URL
   email            : "alexandrelpiche@gmail.com" 
