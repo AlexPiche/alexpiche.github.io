@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Member of Engineering (Reinforcement Learning) at Poolside in Montreal. I am interested in alignment, self-improving systems, and AI safety.
+I am a Member of Engineering (Reinforcement Learning) at Poolside, working remotely from Montreal. My research focuses on scalable reinforcement learning systems for large language models, with particular interest in reasoning, self-improvement, and efficient on-policy training at scale.
