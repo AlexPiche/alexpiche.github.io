@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist at ServiceNow Research in Montreal. I am interested in alignment, self-improving systems, and AI safety.
+I am a Member of Engineering (Reinforcement Learning) at Poolside in Montreal. I am interested in alignment, self-improving systems, and AI safety.

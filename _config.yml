@@ -24,9 +24,9 @@ author:
   avatar           : "bio-photo.jpg"
   name             : "Alex Piché"
   pronouns         : # example: "she/her"  
-  bio              : "Senior research scientist"
+  bio              : "Member of Engineering (Reinforcement Learning)"
   location         : "Montréal, Qc"
-  employer         : "ServiceNow Research"
+  employer         : "Poolside"
   uri              : # URL
   email            : "alexandrelpiche@gmail.com" 
 
